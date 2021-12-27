@@ -10,6 +10,7 @@ Personal git commands cheat sheet
 ### Change latest commit message
 
 `git commit --amend -m “<commit message>“`
+
 `git push -f`
 
 
@@ -36,6 +37,8 @@ Personal git commands cheat sheet
 ### Before push
 
 `git fetch origin <dev>:<dev>`
+
 `git rebase dev`
+
 `git push -f`
 
